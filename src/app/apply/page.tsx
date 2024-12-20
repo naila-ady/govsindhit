@@ -6,8 +6,8 @@ import { TbCircleNumber1, TbCircleNumber2, TbCircleNumber3, TbCircleNumber4, TbC
 
 export default function Apply() {
     return (
-        <div className="h-[950px]" id="Apply">
-  <section className="mt-30 flex flex-col text-center w-full bg-white border-spacing-5 border-gray-200 shadow-xl body-font">
+        <div className="" >
+  <section className="py-6 flex flex-col text-center max-w-full bg-white border-spacing-5 border-gray-200 shadow-xl body-font">
     {/* Section Container */}
     <div className="container px-4 flex items-center py-24 mx-auto">
       <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-[#044E83] mb-4 md:w-2/3 mx-auto">
